@@ -10,4 +10,5 @@ Execute AfterHoursInstall.bat
 
 Inspiration from:
 https://github.com/raresv/SendNextMonday
+and
 https://bmatb.medium.com/delaying-email-sending-outlook-vba-dbfd41a6ad01
