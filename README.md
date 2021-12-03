@@ -4,7 +4,7 @@ Prompt if emails sent after hours should be delayed
 ## Step 1:
 Download .zip and extract to a folder
 
-# Step 2:
+## Step 2:
 Close Outlook\
 Execute AfterHoursInstall.bat
 
