@@ -8,6 +8,6 @@ Download .zip and extract to a folder
 Close Outlook\
 Execute AfterHoursInstall.bat
 
-Inspiration from:\
+<u>Inspiration from:</u>\
 https://github.com/raresv/SendNextMonday \
 https://bmatb.medium.com/delaying-email-sending-outlook-vba-dbfd41a6ad01
