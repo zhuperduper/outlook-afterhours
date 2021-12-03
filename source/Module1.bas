@@ -36,7 +36,7 @@ Else
     Else
         'Check if after 6pm
         'Send next business day at 8am
-        If sendHour > 18 Then
+        If sendHour >= 18 Then
         sendDate = todayDate
         sendDate = DateAdd("h", 8, sendDate)
         sendDate = DateAdd("d", 1, sendDate)
