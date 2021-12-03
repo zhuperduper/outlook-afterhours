@@ -1,5 +1,5 @@
 # outlook-afterhours
-Prompt if emails sent after hours should be delayed
+Prompt if emails sent after hours should be delayed\
 Working hours are M-F before 7am or after 6pm, local time.
 
 ## Step 1:
