@@ -3,7 +3,7 @@ Prompt if emails sent outside of working hours should be delayed. Default delay 
 Working hours are M-F between 7am and 6pm, local time.
 
 ## Step 1:
-Download .zip and extract to a folder
+<a href = https://github.com/zhuperduper/outlook-afterhours/archive/refs/heads/main.zip>Download .zip</a> and extract to a folder
 
 ## Step 2:
 Close Outlook\
