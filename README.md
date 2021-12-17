@@ -10,8 +10,8 @@ Note: Outlook needs to be open for the email to send at the prescribed time (e.g
 <a href = https://github.com/zhuperduper/outlook-afterhours/archive/refs/heads/main.zip>Download .zip</a> and extract to a folder
 
 ## Step 2:
-Close Outlook\
-Execute AfterHoursInstall.bat
+Close Outlook, then execute AfterHoursInstall.bat
+
 Note: Outlook can only have one VBA project active at a time. Any existing macros in Outlook will be unloaded and backed-up.
 
 ## Screenshots:
