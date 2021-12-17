@@ -12,6 +12,7 @@ Note: Outlook needs to be open for the email to send at the prescribed time (e.g
 ## Step 2:
 Close Outlook\
 Execute AfterHoursInstall.bat
+Note: Outlook can only have one VBA project active at a time. Any existing macros in Outlook will be unloaded and backed-up.
 
 ## Screenshots:
 ![Delay email prompt](https://github.com/zhuperduper/outlook-afterhours/blob/main/screenshots/2021-12-16%2018_02_48-Delay%20sending%20email_.png?raw=true)
